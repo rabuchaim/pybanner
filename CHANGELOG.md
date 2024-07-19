@@ -1,4 +1,4 @@
-#### What's new in v1.0.2 - 19/July/2024
+#### What's new in v1.0.3 - 19/July/2024
 
 - Added new font classes: banner (the classic), banner3, banner3d, banner4, banner_clr8x8, banner_clb8x8, banner_clr8x10, banner_clb8x10
 
