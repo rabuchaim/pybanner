@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='pybanner',
-    version='1.0.0',
-    description='A small and lightweight library for Python 3.x and PyPy3 to print texts as banners. No Figlet needed, it\'s Pure Python!',
+    version='1.0.2',
+    description="A small and lightweight library for Python 3.x and PyPy3 to print texts as banners. Works on Linux, MacOS and Windows. No Figlet, Toilet or PyFiglet needed, it's Pure Python!",
     url='https://github.com/rabuchaim/pybanner',
     author='Ricardo Abuchaim',
     author_email='ricardoabuchaim@gmail.com',
@@ -16,7 +16,7 @@ setup(
     },    
     bugtrack_url='https://github.com/rabuchaim/pybanner/issues',    
     license='MIT',
-    keywords=['pybanner','banner','figlet','pyfiglet','toilet','pure python','purepython'],
+    keywords=['pybanner','banner','figlet','pyfiglet','toilet','pure python','purepython','ascii','asciiart'],
     packages=['pybanner'],
     py_modules=['pybanner', 'pybanner'],
     package_dir = {'pybanner': 'pybanner'},
