@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pybanner',
-    version='1.0.2',
+    version='1.0.3',
     description="A small and lightweight library for Python 3.x and PyPy3 to print texts as banners. Works on Linux, MacOS and Windows. No Figlet, Toilet or PyFiglet needed, it's Pure Python!",
     url='https://github.com/rabuchaim/pybanner',
     author='Ricardo Abuchaim',
