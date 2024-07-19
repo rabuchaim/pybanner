@@ -1,4 +1,4 @@
-# pybanner v1.0.2
+# pybanner v1.0.3
 
 A small and lightweight library for Python 3.x and PyPy3 to print texts as banners. No Figlet, Toilet ou PyFiglet needed. Works on Linux, MacOS and Windows. 
 
